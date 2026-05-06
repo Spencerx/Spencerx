@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on automating and what you have you so don't forget to speak 
 - 🤔 I’m looking for help with people who can't network 
 - 💬 Ask me about this
-- 📫 How to reach me: everything is right here. hit me up on socials 
+- 📫 How to reach me: everything is right here. So hit me up on socials 
 - 😶‍🌫️ Pronouns: Wayout there
-- ⚡ Fun fact: Lightning 
+- ⚡ Fun fact: Lightning. \
 
 <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="35%">  
