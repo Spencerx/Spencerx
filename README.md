@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about this
 - 📫 How to reach me: everything is right here. So hit me up on socials 
 - 😶‍🌫️ Pronouns: Wayout there
-- ⚡ Fun fact: Lightning. \
+- ⚡ Fun fact: Lightning. 
+
+
 
 <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="35%">  
