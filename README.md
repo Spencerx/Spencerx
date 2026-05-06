@@ -4,7 +4,7 @@
 **Spencerx/Spencerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on alot
 - 🌱 I’m currently learning alot more
 - 👯 I’m looking to collaborate on automating and what you have you so don't forget to speak 
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: everything is right here. hit me up on socials 
 - 😶‍🌫️ Pronouns: Wayout there
 - ⚡ Fun fact: Lightning 
--->
+
 <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="35%">  
