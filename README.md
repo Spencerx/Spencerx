@@ -10,8 +10,15 @@ Here are some ideas to get you started:
 
 <img src="https://githubcard.com/Spencerx.svg?d=RNz1MlUd">
 
-I build or maintain private data, models and repositories on device(edge computing). Yes on demand and in browser with fast turn arounds always on CI/CD/CT in continuous feedback to allow you to focus on new goals, epics or milestones.
+I build or maintain private data, models and repositories on device(edge computing). Yes on demand and in browser with fast turn arounds always on CI/CD/CT in continuous feedback to allow you to focus on new goals, epics or milestones. 
 
+Some of my highlights are viewing the world as 
+Infrastructure as Code or more novel uses for hands free Computer Aided Engineering,
+Linux or Unix-like Operating Systems rollouts to everyday devices or uses that cut time to goals and boost efficiency.
+
+My work is platform independent and revolves around self documenting Alpha-Beta testing.
+
+Project Maintainers here on social coding have the ability to focus on their issues via Continuous Test on cloud, lightening to eliminating burden and toil.
 
 <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="35%">  
 
