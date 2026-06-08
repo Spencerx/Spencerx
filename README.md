@@ -32,8 +32,8 @@ Some of my highlights are viewing the world as
 Infrastructure as Code or more novel uses for hands free Computer Aided Engineering,
 Linux or Unix-like Operating Systems rollouts to everyday devices or uses that cut time to goals and boost efficiency including the use of mobile devices where sensitive equipment usually performs in the field.
     
-<img src="https://gitfront.io/r/Spence/Ne9e3sMAjqjB/Spence/blob/1780926003371.png">
-
+<img src="https://github.com/Spencerx/Spencerx/blob/main/1780926003371.png">
+https://github.com/Spencerx/Spencerx/blob/main/1778054541739.png
 
 On the backend you may see me on is Alibaba, Amazon, Azure, Google flavours of Linux that scale the same way any other distro does, I leverage the middleware and backend cloud infrastructure in developing behind the scenes server-side solutions for scalable services, simple or complex.
 
@@ -41,8 +41,7 @@ On the backend you may see me on is Alibaba, Amazon, Azure, Google flavours of L
 
 My work is platform independent and revolves around self documenting Alpha-Beta testing.
 
-<img src="https://gitfront.io/r/Spence/Ne9e3sMAjqjB/Spence/blob/image2vector.svg">
-
+<img src="https://github.com/Spencerx/Spencerx/blob/main/image2vector.svg">
 
 Project Maintainers here on social coding such as Atlassian BitBucket, Git, GitCode, GitHub or GitLab have the ability to focus on their issues via Continuous Test on cloud to maximise accessibility, availability, lightening to eliminating burden, noise, resource contention constraints and toil. Designing out other factors to concentrate on scale or service.
 
