@@ -14,8 +14,7 @@ I build or maintain private data, models and repositories on device(edge technol
 
 https://en.wikipedia.org/wiki/History_of_natural_language_processing
 
-<img src="https://repository-images.githubusercontent.com/156157055/e6a73d2d-36f3-4405-bc2e-2382bcbf3376"> See Distributed Training topoc & Made with ML https://github.com/topics/distributed-training
-
+<img src="https://repository-images.githubusercontent.com/156157055/e6a73d2d-36f3-4405-bc2e-2382bcbf3376"> See Distributed Training topic & Made with ML https://github.com/topics/distributed-training
 <img src="https://webllm.mlc.ai/assets/video/Pittsburgh.webm">
 Web-LLM "In-browser LLM Inference Engine" https://github.com/mlc-ai/web-llm
 
