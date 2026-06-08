@@ -20,7 +20,7 @@ My work is platform independent and revolves around self documenting Alpha-Beta 
 
 <img src="https://github.com/Spencerx/Spence/blob/master/image2vector.svg">
 
-Project Maintainers here on social coding have the ability to focus on their issues via Continuous Test on cloud, lightening to eliminating burden and toil.
+Project Maintainers here on social coding have the ability to focus on their issues via Continuous Test on cloud, lightening to eliminating burden, noise, resource contention constraints and toil. Designing out other factors.
 
 <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="35%">  
 
@@ -31,7 +31,7 @@ Project Maintainers here on social coding have the ability to focus on their iss
 - 🤔 I’m looking for help with people who can't network 
 - 💬 Ask me about this
 - 📫 How to reach me: everything is right here. So hit me up on socials
-- 📲 People usually reach out twitter, you can use email, Discord, X 
+- 📲 People usually reach out twitter, you can use email, Discord, Instant Messaging of your choice or X 
 - 😶‍🌫️ Pronouns: Wayout there
 - ⚡ Fun fact: Lightning. 
 
