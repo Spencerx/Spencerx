@@ -29,7 +29,7 @@ Project Maintainers here on social coding have the ability to focus on their iss
 - 🤔 I’m looking for help with people who can't network 
 - 💬 Ask me about this
 - 📫 How to reach me: everything is right here. So hit me up on socials
-- 📲, People usually reach out twitter, you can use email, Discord, X 
+- 📲 People usually reach out twitter, you can use email, Discord, X 
 - 😶‍🌫️ Pronouns: Wayout there
 - ⚡ Fun fact: Lightning. 
 
