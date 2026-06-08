@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Lightning. 
 
 
-<img src="https://githubcard.com/Spencerx.svg?d=gx3RVhJo" width="75%">
+<img src="https://githubcard.com/Spencerx.svg?d=gx3RVhJo">
