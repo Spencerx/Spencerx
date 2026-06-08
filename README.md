@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 -->
 🏗 Extremely brief rundown of languages I use:
+
+
 <img src="https://githubcard.com/Spencerx.svg?d=RNz1MlUd">
 
 I build or maintain private data, models and repositories on device(edge computing). Yes on demand and in browser with fast turnarounds always on CI/CD/CT in continuous feedback to allow you to focus on new goals, epics or milestones.
