@@ -15,7 +15,7 @@ I build or maintain private data, models and repositories on device(edge computi
 Some of my highlights are viewing the world as 
 Infrastructure as Code or more novel uses for hands free Computer Aided Engineering,
 Linux or Unix-like Operating Systems rollouts to everyday devices or uses that cut time to goals and boost efficiency.
-
+<img src="https://github.com/Spencerx/Spence/blob/master/image2vector.svg" width="85">
 My work is platform independent and revolves around self documenting Alpha-Beta testing.
 
 Project Maintainers here on social coding have the ability to focus on their issues via Continuous Test on cloud, lightening to eliminating burden and toil.
