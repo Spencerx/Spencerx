@@ -17,7 +17,7 @@ https://en.wikipedia.org/wiki/History_of_natural_language_processing
 <!--
 <img src="https://repository-images.githubusercontent.com/156157055/e6a73d2d-36f3-4405-bc2e-2382bcbf3376"> See Distributed Training topic & Made with ML https://github.com/topics/distributed-training -->
 Web-LLM "In-browser LLM Inference Engine" https://github.com/mlc-ai/web-llm run here https://chat.webllm.ai/
-<img src="https://github.com/Spencerx/Spencerx/blob/main/Pittsburgh.mp4">
+<img src="https://github.com/Spencerx/Spencerx/blob/main/Pittsburgh.gif">
 <img alt="https://github.com/iamsivab/Data-Science-Beginners-Guide" src="https://camo.githubusercontent.com/a95345710d1378c4a2111fd4637073dd208357ada6f3179244cb88fd011df393/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313130342f302a384259794b5142394a6a7a6263397944"> Data Science Beginner's Guide https://github.com/iamsivab/Data-Science-Beginners-Guide
 
 Today. Yes on demand and in browser for all apps with fast turn arounds always on CI/CD/CT in continuous feedback to allow you to focus on new goals, epics or milestones.
