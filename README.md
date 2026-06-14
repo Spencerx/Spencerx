@@ -22,9 +22,8 @@ Web-LLM "In-browser LLM Inference Engine" https://github.com/mlc-ai/web-llm run 
 
 Today. Yes on demand and in browser for all apps with fast turn arounds always on CI/CD/CT in continuous feedback to allow you to focus on new goals, epics or milestones.
 Rather than endless coding sessions, a golden rule of software development is avoiding reinventing the wheel and baggage with reusable code.
-JamStack topic https://github.com/topics/JamStack
 
-<img alt="https://github.com/Olanetsoft/awesome-jamstack-resources" src="https://camo.githubusercontent.com/229b178d1bfe63490c97beee9650490f2904b6cba2c3ca349e038b41051adede/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f636c6f7564696e6172792d6d61726b6574696e672f696d6167652f75706c6f61642f76312f5765625f4173736574732f626c6f672f4a414d737461636b2d44656c69766572732d76312e706e67">
+<img alt="https://github.com/Olanetsoft/awesome-jamstack-resources" src="https://camo.githubusercontent.com/229b178d1bfe63490c97beee9650490f2904b6cba2c3ca349e038b41051adede/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f636c6f7564696e6172792d6d61726b6574696e672f696d6167652f75706c6f61642f76312f5765625f4173736574732f626c6f672f4a414d737461636b2d44656c69766572732d76312e706e67">JamStack topic https://github.com/topics/JamStack
 
 One of the technologies is JamStack on the Serverless JS Stack which I consistently approach the same way I develop on the JVM since touching the Java Stack.
 
