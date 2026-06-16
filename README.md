@@ -100,7 +100,7 @@ I might be practicing advocacy or field engineering if I'm not doing something e
 
 <p align="left">
   <!-- Pull Shark: Merged PRs -->
-  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/plots/pull_shark.svg" width="60" alt="Pull Shark" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" alt="Pull Shark" />
   <!-- YOLO: Merged a PR without code review -->
  <!--
     <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/plots/yolo.svg" width="60" alt="YOLO" /> 
@@ -110,9 +110,9 @@ I might be practicing advocacy or field engineering if I'm not doing something e
     <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/plots/galaxy_brain.svg" width="60" alt="Galaxy Brain" />
     -->
   <!-- Pair Extraordinaire: Co-authored a merged PR -->
-  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/plots/pair_extraordinaire.svg" width="60" alt="Pair Extraordinaire" />
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="60" alt="Pair Extraordinaire" />
   <!-- Quickdraw: Closed an issue/PR within 5 minutes -->
-  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/plots/quickdraw.svg" width="60" alt="Quickdraw" />
+  <img src="https://github.githubassets.com/assets/quickdraw-default--medium-0bdca502f5b4.png" width="60" alt="Quickdraw" />
 </p>
 
 </p>
