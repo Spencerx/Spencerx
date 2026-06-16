@@ -91,19 +91,19 @@ Some repositories with different types of languages
 
 ---
 
-### 🏆 Vault Achievements
+<!-- 🏆 Vault Achievements -->
 
 <!-- 4. TROPHY STRIP -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Spencerx&theme=tokyonight&margin-w=15" alt="Trophy Strip" />
 </p>
-<!-- Replace YOUR_GITHUB_USERNAME_HERE with your exact case-sensitive username -->
+<!-- Replace YOUR_GITHUB_USERNAME_HERE with your exact case-sensitive username 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/badges?username=Spencerx&theme=tokyonight" alt="GitHub Badges Card" />
- <!--   🏆 System Achievements Unlocked -->
+ 🏆 System Achievements Unlocked
 
 <p align="left">
-  <!-- Pull Shark: Merged PRs -->
+  <!-- Pull Shark: Merged PRs 
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" alt="Pull Shark" />
   <!-- YOLO: Merged a PR without code review -->
  <!--
@@ -114,13 +114,13 @@ Some repositories with different types of languages
     <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/plots/galaxy_brain.svg" width="60" alt="Galaxy Brain" />
     -->
   <!-- Pair Extraordinaire: Co-authored a merged PR -->
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="60" alt="Pair Extraordinaire" />
-  <!-- Quickdraw: Closed an issue/PR within 5 minutes -->
+  <!-- <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="60" alt="Pair Extraordinaire" />
+  <!-- Quickdraw: Closed an issue/PR within 5 minutes 
   <img src="https://github.githubassets.com/assets/quickdraw-default--medium-0bdca502f5b4.png" width="60" alt="Quickdraw" />
 </p>
 
 </p>
-
+-->
 ---
 
 ### 🛠️ Core Tech Stack & Ecosystems
