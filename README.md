@@ -62,6 +62,7 @@ Project Maintainers here on social coding such as Atlassian BitBucket, Git, GitC
 
 I might be practicing advocacy or field engineering if I'm not doing something else outdoors related.
 
+Some repositories with different types of languages
 <!-- 1. ANIMATED HEADER -->
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=7AA2F7&width=435&lines=Systems+Architecture;DevOps+
@@ -97,7 +98,7 @@ I might be practicing advocacy or field engineering if I'm not doing something e
 <!-- Replace YOUR_GITHUB_USERNAME_HERE with your exact case-sensitive username -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/badges?username=Spencerx&theme=tokyonight" alt="GitHub Badges Card" />
-    ### 🏆 System Achievements Unlocked
+ <!--   🏆 System Achievements Unlocked -->
 
 <p align="left">
   <!-- Pull Shark: Merged PRs -->
