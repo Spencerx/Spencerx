@@ -62,9 +62,8 @@ Project Maintainers here on social coding such as Atlassian BitBucket, Git, GitC
 
 <!-- <img src="https://githubcard.com/Spencerx.svg?d=MfpoliHu"> -->
 
-I might be practicing advocacy or field engineering if I'm not doing something else outdoors related.
+I might be practicing advocacy or field engineering if I'm not doing something else outdoors related, maybe gaming.
 
-Some repositories with different types of languages
 <!-- 1. ANIMATED HEADER -->
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=7AA2F7&width=435&lines=Systems+Architecture;DevOps+
@@ -85,6 +84,7 @@ Some repositories with different types of languages
 </p>
 -->
 <!-- 3. LANGUAGE DISTRIBUTION -->
+Some different types of languages I explore here
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencerx&layout=compact&theme=tokyonight&langs_count=24" width="450" />
 </p>
