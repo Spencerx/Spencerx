@@ -71,15 +71,16 @@ I might be practicing advocacy or field engineering if I'm not doing something e
 </p>
 
 ---
-
+<!--
 ### 📊 Account Architecture & Metrics
 
 <!-- 2. SIDE-BY-SIDE CORE STATS -->
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Spencerx&show_icons=true&theme=tokyonight&include_all_commits=true" height="195" />
   <img src="https://streak-stats.demolab.com?user=Spencerx&theme=tokyonight" height="195" />
 </p>
-
+-->
 <!-- 3. LANGUAGE DISTRIBUTION -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencerx&layout=compact&theme=tokyonight&langs_count=24" width="450" />
