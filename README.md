@@ -5,10 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-🏗 Extremely brief rundown of languages I use:
+🏗 Extremely brief rundown of some of the languages I use:
 
 
-<img src="https://githubcard.com/Spencerx.svg?d=RNz1MlUd">
+<img src="https://githubcard.com/Spencerx.svg?d=1lywIwj_">
+<!--[https://githubcard.com/Spencerx.svg?d=lVAfFSAe] -->
 
 I build or maintain private data, models and repositories on device(edge technology). We would like to think that people all possess natural language processing ability, we also have Lisp since the sixties like the open Unix standard and Prolog since the 70s in France doing early AI, Deep Learning or Machine Machine Learning, Machine Intelligence, NLP with analogue or digital computers that give rhyme or reason from symbolic logic as in fact based assertions that are still relevant to cutting down hallucinations now and validation of data based on rules, also cheaper hardware than supercomputers or workstations that complimented them like Lisp or Thinking Machines that cost less than a large property, Unix foundations built on small tools scaled to Linux platforms here and now.
 
@@ -57,6 +58,102 @@ Project Maintainers here on social coding such as Atlassian BitBucket, Git, GitC
 - 😶‍🌫️ Pronouns: Wayout there
 - ⚡ Fun fact: Lightning. 
 
-<img src="https://githubcard.com/Spencerx.svg?d=MfpoliHu">
+<!-- <img src="https://githubcard.com/Spencerx.svg?d=MfpoliHu"> -->
 
 I might be practicing advocacy or field engineering if I'm not doing something else outdoors related.
+
+<!-- 1. ANIMATED HEADER -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=7AA2F7&width=435&lines=Systems+Architecture;DevOps+
+      +Field+Fullstaxk+Engineering;Decentralized+Web3" />
+      
+
+</p>
+
+---
+
+### 📊 Account Architecture & Metrics
+
+<!-- 2. SIDE-BY-SIDE CORE STATS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Spencerx&show_icons=true&theme=tokyonight&include_all_commits=true" height="195" />
+  <img src="https://streak-stats.demolab.com?user=Spencerx&theme=tokyonight" height="195" />
+</p>
+
+<!-- 3. LANGUAGE DISTRIBUTION -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencerx&layout=compact&theme=tokyonight&langs_count=24" width="450" />
+</p>
+
+---
+
+### 🏆 Vault Achievements
+
+<!-- 4. TROPHY STRIP -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Spencerx&theme=tokyonight&margin-w=15" alt="Trophy Strip" />
+</p>
+<!-- Replace YOUR_GITHUB_USERNAME_HERE with your exact case-sensitive username -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/badges?username=Spencerx&theme=tokyonight" alt="GitHub Badges Card" />
+    ### 🏆 System Achievements Unlocked
+
+<p align="left">
+  <!-- Pull Shark: Merged PRs -->
+  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/plots/pull_shark.svg" width="60" alt="Pull Shark" />
+  <!-- YOLO: Merged a PR without code review -->
+ <!--
+    <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/plots/yolo.svg" width="60" alt="YOLO" /> 
+    -->
+  <!-- Galaxy Brain: Answered community discussions -->
+<!--  
+    <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/plots/galaxy_brain.svg" width="60" alt="Galaxy Brain" />
+    -->
+  <!-- Pair Extraordinaire: Co-authored a merged PR -->
+  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/plots/pair_extraordinaire.svg" width="60" alt="Pair Extraordinaire" />
+  <!-- Quickdraw: Closed an issue/PR within 5 minutes -->
+  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/plots/quickdraw.svg" width="60" alt="Quickdraw" />
+</p>
+
+</p>
+
+---
+
+### 🛠️ Core Tech Stack & Ecosystems
+
+<!-- 5. SHIELDS.IO STATIC SVG BADGES -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Unix-FFFFFF?style=for-the-badge&logo=unix&logoColor=black" alt="Unix Logo" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-FCC624?style=for-the-badge&logo=Java&logoColor=black" />
+    <img src="https://img.shields.io/badge/Rust-FCC624?style=for-the-badge&logo=Rust&logoColor=black" />
+      <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+    <img src="https://img.shields.io/badge/Swift-FCC624?style=for-the-badge&logo=Swift&logoColor=black" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
+</p>
+
+<!--### 💻 System & Unix Philosophy
+
+<!-- This section uses Simple Icons badges optimized for a terminal feel -->
+
+ <!-- <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Kernel" />
+
+</p>
+-->
+### 🛠️ Advanced Intelligence & Modeling Ecosystems
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Browser_AI-FFDD00?style=for-the-badge&logo=javascript&logoColor=black" alt="Browser AI" />
+  <img src="https://img.shields.io/badge/DL_//_NLP-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="DL NLP" />
+  <img src="https://img.shields.io/badge/Machine_Learning-3F4F75?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ML" />
+  <img src="https://img.shields.io/badge/LLMs-FF9900?style=for-the-badge&logo=openai&logoColor=black" alt="LLMs" />
+  <img src="https://img.shields.io/badge/MLLMs-Gradient?style=for-the-badge&logo=openai&labelColor=121212&color=FF69B4" alt="MLLMs" />
+  <img src="https://img.shields.io/badge/RAG_Systems-FF4500?style=for-the-badge&logo=chainlink&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-E64A19?style=for-the-badge&logo=googlemind&logoColor=white" alt="RL" />
+  <img src="https://img.shields.io/badge/SLMs-A1A1A1?style=for-the-badge&logo=cplusplus&logoColor=white" alt="SLMs" />
+</p>
+
+
