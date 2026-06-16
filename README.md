@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 🏗 Extremely brief rundown of some of the languages I use:
 
 
-<img src="https://githubcard.com/Spencerx.svg?d=1lywIwj_">
+<img src="[https://githubcard.com/Spencerx.svg?d=1lywIwj_](https://github.com/Spencerx/Spencerx/blob/main/1000122315.svg)">
 <!--[https://githubcard.com/Spencerx.svg?d=lVAfFSAe] -->
 
 I build or maintain private data, models and repositories on device(edge technology). We would like to think that people all possess natural language processing ability, we also have Lisp since the sixties like the open Unix standard and Prolog since the 70s in France doing early AI, Deep Learning or Machine Machine Learning, Machine Intelligence, NLP with analogue or digital computers that give rhyme or reason from symbolic logic as in fact based assertions that are still relevant to cutting down hallucinations now and validation of data based on rules, also cheaper hardware than supercomputers or workstations that complimented them like Lisp or Thinking Machines that cost less than a large property, Unix foundations built on small tools scaled to Linux platforms here and now.
