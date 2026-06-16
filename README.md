@@ -28,6 +28,8 @@ Rather than endless coding sessions, a golden rule of software development is av
 
 One of the technologies is JamStack on the Serverless JS Stack which I consistently approach the same way I develop on the JVM since touching the Java Stack.
 
+<img src="https://github.com/Spencerx/Spencerx/blob/main/1000122316.svg"> Slightly Reimagining Java 
+
 Some of my highlights are viewing the world as 
 Infrastructure as Code or more novel uses for hands free Computer Aided Engineering,
 Linux or Unix-like Operating Systems rollouts to everyday devices or uses that cut time to goals and boost efficiency including the use of mobile devices where sensitive equipment usually performs in the field.
