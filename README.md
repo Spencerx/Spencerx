@@ -122,10 +122,11 @@ Some different types of languages I explore here
 
 </p>
 --><p align="center">
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spencerx&repo=github-readme-stats&theme=tokyonight&description=Achievements:+Pull-Shark+(Gold)+•+Pair-Extraordinaire+(Silver)+•+Quickdraw+(Max)" alt="Custom Stats Card" />
 </p>
-
+-->
 
 </p>
 ---
