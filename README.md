@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 <img src="https://github.com/Spencerx/Spencerx/blob/main/1781644300217.png">
 <!--[https://githubcard.com/Spencerx.svg?d=lVAfFSAe] -->
 
-I build or maintain private data, models and repositories on device(edge technology). We would like to think that people all possess natural language processing ability, we also have Lisp since the sixties like the open Unix standard and Prolog since the 70s in France doing early AI, Deep Learning or Machine Machine Learning, Machine Intelligence, NLP with analogue or digital computers that give rhyme or reason from symbolic logic as in fact based assertions that are still relevant to cutting down hallucinations now and validation of data based on rules, also cheaper hardware than supercomputers or workstations that complimented them like Lisp or Thinking Machines that cost less than a large property, Unix foundations built on small tools scaled to Linux platforms here and now.
+I build or maintain private data, models and repositories on device(edge technology). We would like to think that people all possess natural language processing ability, we also have Lisp since the sixties like the open Unix standard and Prolog since the 70s in France doing early AI, Deep Learning or Machine Machine Learning, Machine Intelligence, NLP with analogue or digital computers that give rhyme or reason from symbolic logic as in fact based assertions that are still relevant to cutting down hallucinations now and validation of data based on rules, also cheaper hardware than supercomputers or workstations that complimented them like Lisp or Thinking Machines that cost less than a large property, Unix foundations built on small tools scaled to Linux platforms here and now. Lisp, LISt Processing is only one year younger than Fortran(1957), its simple syntax (lists) and macros (to transform those lists), Lisp has been called a “programmable
+programming language.”
 
 https://en.wikipedia.org/wiki/History_of_natural_language_processing
 
@@ -120,7 +121,13 @@ Some different types of languages I explore here
 </p>
 
 </p>
--->
+--><p align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spencerx&repo=github-readme-stats&theme=tokyonight&description=Achievements:+Pull-Shark+(Gold)+•+Pair-Extraordinaire+(Silver)+•+Quickdraw+(Max)" alt="Custom Stats Card" />
+</p>
+
+
+</p>
 ---
 
 ### 🛠️ Core Tech Stack & Ecosystems
@@ -160,4 +167,7 @@ Some different types of languages I explore here
   <img src="https://img.shields.io/badge/SLMs-A1A1A1?style=for-the-badge&logo=cplusplus&logoColor=white" alt="SLMs" />
 </p>
 
+[AI Native Languages](https://github.com/topics/ai-native?o=desc&s=updated)
+
+[Visual History of Languages](https://bytebytego.com/guides/a-brief-history-og-programming-languages/)
 
