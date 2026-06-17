@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 <img src="https://github.com/Spencerx/Spencerx/blob/main/1781644300217.png">
 <!--[https://githubcard.com/Spencerx.svg?d=lVAfFSAe] -->
 
-I build or maintain private data, models and repositories on device(edge technology). We would like to think that people all possess natural language processing ability, we also have Lisp since the sixties like the open Unix standard and Prolog since the 70s in France doing early AI, Deep Learning or Machine Machine Learning, Machine Intelligence, NLP with analogue or digital computers that give rhyme or reason from symbolic logic as in fact based assertions that are still relevant to cutting down hallucinations now and validation of data based on rules, also cheaper hardware than supercomputers or workstations that complimented them like Lisp or Thinking Machines that cost less than a large property, Unix foundations built on small tools scaled to Linux platforms here and now. Lisp, LISt Processing is only one year younger than Fortran(1957), fifth generation like Erlang, Haskell used in GuixOS, Prolog - PROgramming in Logic, Smalltalk. Simple syntax (linked lists) and macros (transformable) Lisp has been called a “programmable
-programming language.” 
+I build or maintain private data, models and repositories on device(edge technology). We would like to think that people all possess natural language processing ability, we also have Lisp since the sixties like the open Unix standard and Prolog since the 70s in France doing early AI, Deep Learning or Machine Machine Learning, Machine Intelligence, NLP with analogue or digital computers that give rhyme or reason from symbolic logic as in fact based assertions that are still relevant to cutting down hallucinations now and validation of data based on rules, also cheaper hardware than supercomputers or workstations that complimented them like Lisp or Thinking Machines that cost less than a large property, Unix foundations built on small tools scaled to Linux platforms here and now. Lisp, LISt Processing is only one year younger than Fortran(1957), fifth generation like Erlang, Haskell used in GuixOS, Prolog - PROgramming in Logic, Smalltalk. Simple syntax, transformable linked lists and macros have it named a “programmable
+programming language.” ie: a Programmers' programmable language or Excellent toy for today's processing power and human input.
 
 https://en.wikipedia.org/wiki/History_of_natural_language_processing
-
+<img src="https://github.com/Spencerx/Spencerx/blob/main/1000122425.svg">https://en.wikipedia.org/wiki/List_of_Lisp-family_programming_languages#Timeline 
 <!--
 <img src="https://repository-images.githubusercontent.com/156157055/e6a73d2d-36f3-4405-bc2e-2382bcbf3376"> See Distributed Training topic & Made with ML https://github.com/topics/distributed-training -->
 Web-LLM "In-browser LLM Inference Engine" https://github.com/mlc-ai/web-llm run here https://chat.webllm.ai/
@@ -169,6 +169,8 @@ Some different types of languages I explore here
 </p>
 
 [AI Native Languages](https://github.com/topics/ai-native?o=desc&s=updated)
+
+[The Most Popular Programming Languages: A Historical View](https://niftytechfinds.com/the-most-popular-programming-languages-a-historical-view/)
 
 [Visual History of Languages](https://bytebytego.com/guides/a-brief-history-og-programming-languages/)
 
