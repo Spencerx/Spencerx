@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Postgres+pgvector+ML PoC</title>
+  <script type="importmap">
+  {
+    "imports": {
+      "@electric-sql/pglite": "https://cdn.jsdelivr.net/npm/@electric-sql/pglite@0.2.3/dist/index.js",
+      "onnxruntime-web": "https://cdn.jsdelivr.net/npm/onnxruntime-web@1.19.2/dist/ort.min.js"
+    }
+  }
+  </script>
+</head>
+<body>
+  <h3>Postgres + pgvector + ML in Browser</h3>
+  <div id="log"></div>
+  <script type="module">
+  import { PGlite } from '@electric-sql/pglite';
+  import * as ort from 'onnxruntime-web';
+
+  const log = msg => document.getElementById('log').innerHTML += msg + '<br>';
+
+  // 1. Key Store - generate + store encryption key
+  async function initKeyStore() {
+    const key = await crypto.subtle.generateKey(
+      {name: 'AES-GCM', length: 256}, true, ['encrypt', 'decrypt']
+    );
+    log('Key Store: AES-256 key generated');
+    return key;
+  }
+
+  // 2. Init Postgres + pgvector WASM
+  const db = await PGlite.create({
+    extensions: { pgvector: true } // loads pgvector WASM extension
+  });
+  await db.query('CREATE EXTENSION IF NOT EXISTS vector');
+  await db.query('CREATE TABLE docs (id serial, content text, embedding vector(384))');
+  log('Postgres: pglite + pgvector ready');
+
+  // 3. Load tiny sentence-embedding model for ML/DL demo
+  const session = await ort.InferenceSession.create(
+    'https://huggingface.co/Xenova/all-MiniLM-L6-v2/resolve/main/onnx/model.onnx'
+  );
+  log('ML: ONNX sentence transformer loaded');
+
+  async function getEmbedding(text) {
+    // Simplified: real model needs tokenizer. Use fake 384-dim vector for PoC
+    const vec = new Float32Array(384).map(() => Math.random() * 2 - 1);
+    return `[${Array.from(vec).join(',')}]`;
+  }
+
+  // 4. Insert + Vector Search demo
+  async function demo() {
+    const key = await initKeyStore();
+
+    const docs = [
+      'PostgreSQL runs in the browser using WebAssembly',
+      'Vector search finds similar meaning with embeddings',
+      'Machine Learning models can run via ONNX in WASM'
+    ];
+
+    for(let i=0; i<docs.length; i++) {
+      const emb = await getEmbedding(docs[i]);
+      await db.query('INSERT INTO docs(content, embedding) VALUES ($1, $2)', [docs[i], emb]);
+    }
+    log('Inserted 3 docs with 384-dim embeddings');
+
+    // Vector similarity search
+    const queryEmb = await getEmbedding('browser database with AI');
+    const res = await db.query(`
+      SELECT content, 1 - (embedding <=> $1::vector) as similarity
+      FROM docs
+      ORDER BY embedding <=> $1::vector
+      LIMIT 2
+    `, [queryEmb]);
+
+    log('Vector Search Results:');
+    res.rows.forEach(r => log(`- ${r.content} | sim=${r.similarity.toFixed(3)}`));
+  }
+
+  demo();
+  </script>
+</body>
+</html>
