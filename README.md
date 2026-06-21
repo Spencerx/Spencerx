@@ -33,9 +33,10 @@ Rather than endless coding sessions, a golden rule of software development is av
 
 One of the technologies is JamStack on the Serverless JS Stack which I consistently approach the same way I develop on the JVM since touching the Java Stack.
 
-<img src="https://github.com/Spencerx/Spencerx/blob/main/1000122316.svg">
+<img src="https://github.com/Spencerx/Spencerx/blob/main/AI-Native%20Programming%20Java%20Blueprint.png">
+
 Slightly Reimagining Java apart from rewriting the JVM in Go, Rust & Swift it's about keeping bytecode compatibility while making it more AI Native something ABCL -Armed Bear Common Lisp, Curry, Clojure, Datalog, Kawa & Mercury achieve in small non trivial ways which still need to evolve. You also have Spring AI, LangChain4j, Jlama, Deep Java Library (DJL), Eclipse Deeplearning4j (DL4J), Tribuo, Apache OpenNLP, Weka, Encog, Neuroph, RapidMiner, H2O.ai, JSAT, Smile, Mallet, Java-ML, Stanford CoreNLP, DeepNetts, MOA (Massive Online Analysis), Burlap, JRL (Java Reinforcement Learning), OpenAI Gym Java Wrapper, RL4J, Micronaut AI, Helidon AI & Model Context Protocol (MCP) Java SDK. It is interesting to see how Java programming language  will evolve along with AI native languages. Coming from Lisp, Prolog, C++, Python into R, Julia, Python & Mojo especially AI Native languages.
-<img src="https://github.com/Spencerx/Spencerx/blob/main/AI-Native%20Programming%20Java%20Blueprint.png"> [WASM IO 2026 YouTube Playlist](https://youtube.com/playlist?list=PLP3xGl7Eb-4P9UDywG2NOJLBtcch_Ry7A)
+<img src="https://github.com/Spencerx/Spencerx/blob/main/WASM%20In-Browser.png"> [WASM IO 2026 YouTube Playlist](https://youtube.com/playlist?list=PLP3xGl7Eb-4P9UDywG2NOJLBtcch_Ry7A)
 
 Some of my highlights are viewing the world as 
 Infrastructure as Code or more novel uses for hands free Computer Aided Engineering,
