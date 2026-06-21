@@ -22,6 +22,7 @@ https://en.wikipedia.org/wiki/List_of_Lisp-family_programming_languages#Timeline
 <img src="https://repository-images.githubusercontent.com/156157055/e6a73d2d-36f3-4405-bc2e-2382bcbf3376"> 
 See
 Distributed Training topic & Made with ML https://github.com/topics/distributed-training
+
 Web-LLM "In-browser LLM Inference Engine" https://github.com/mlc-ai/web-llm run here https://chat.webllm.ai/
 <img src="https://github.com/Spencerx/Spencerx/blob/main/Pittsburgh.gif">
 <img alt="https://github.com/iamsivab/Data-Science-Beginners-Guide" src="https://camo.githubusercontent.com/a95345710d1378c4a2111fd4637073dd208357ada6f3179244cb88fd011df393/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313130342f302a384259794b5142394a6a7a6263397944"> Data Science Beginner's Guide https://github.com/iamsivab/Data-Science-Beginners-Guide
@@ -36,6 +37,7 @@ One of the technologies is JamStack on the Serverless JS Stack which I consisten
 <img src="https://github.com/Spencerx/Spencerx/blob/main/AI-Native%20Programming%20Java%20Blueprint.png">
 
 Slightly Reimagining Java apart from rewriting the JVM in Go, Rust & Swift it's about keeping bytecode compatibility while making it more AI Native something ABCL -Armed Bear Common Lisp, Curry, Clojure, Datalog, Kawa & Mercury achieve in small non trivial ways which still need to evolve. You also have Spring AI, LangChain4j, Jlama, Deep Java Library (DJL), Eclipse Deeplearning4j (DL4J), Tribuo, Apache OpenNLP, Weka, Encog, Neuroph, RapidMiner, H2O.ai, JSAT, Smile, Mallet, Java-ML, Stanford CoreNLP, DeepNetts, MOA (Massive Online Analysis), Burlap, JRL (Java Reinforcement Learning), OpenAI Gym Java Wrapper, RL4J, Micronaut AI, Helidon AI & Model Context Protocol (MCP) Java SDK. It is interesting to see how Java programming language  will evolve along with AI native languages. Coming from Lisp, Prolog, C++, Python into R, Julia, Python & Mojo especially AI Native languages.
+
 <img src="https://github.com/Spencerx/Spencerx/blob/main/WASM%20In-Browser.png"> [WASM IO 2026 YouTube Playlist](https://youtube.com/playlist?list=PLP3xGl7Eb-4P9UDywG2NOJLBtcch_Ry7A)
 
 Some of my highlights are viewing the world as 
