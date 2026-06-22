@@ -16,7 +16,7 @@ programming language.” ie: a Programmers' programmable language or Excellent t
 
 https://en.wikipedia.org/wiki/History_of_natural_language_processing
 <!-- <img src="https://github.com/Spencerx/Spencerx/blob/main/1000122425.svg"> -->
-<img src="https://github.com/Spencerx/Spencerx/blob/main/Lisp_WikipediaTimeline_20260617_180837.svg">
+<img src="https://github.com/Spencerx/Spencerx/blob/main/LispFamilyTimeline_Wikipedia_20260617_180837.png">
 https://en.wikipedia.org/wiki/List_of_Lisp-family_programming_languages#Timeline 
 
 <img src="https://repository-images.githubusercontent.com/156157055/e6a73d2d-36f3-4405-bc2e-2382bcbf3376"> 
