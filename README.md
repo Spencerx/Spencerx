@@ -38,6 +38,15 @@ One of the technologies is JamStack on the Serverless JS Stack which I consisten
 
 Slightly Reimagining Java apart from rewriting the JVM in Go, Rust & Swift it's about keeping bytecode compatibility while making it more AI Native something ABCL -Armed Bear Common Lisp, Curry, Clojure, Datalog, Kawa & Mercury achieve in small non trivial ways which still need to evolve. You also have Spring AI, LangChain4j, Jlama, Deep Java Library (DJL), Eclipse Deeplearning4j (DL4J), Tribuo, Apache OpenNLP, Weka, Encog, Neuroph, RapidMiner, H2O.ai, JSAT, Smile, Mallet, Java-ML, Stanford CoreNLP, DeepNetts, MOA (Massive Online Analysis), Burlap, JRL (Java Reinforcement Learning), OpenAI Gym Java Wrapper, RL4J, Micronaut AI, Helidon AI & Model Context Protocol (MCP) Java SDK. It is interesting to see how Java programming language  will evolve along with AI native languages. Coming from Lisp, Prolog, C++, Python into R, Julia, Python & Mojo especially AI Native languages.
 
+LLMlet: P2P distributed LLM inference on browsers
+LLMlet is an on-browser LLM runner based on Wasm-compiled llama.cpp. This is an experimental software. See Known limitations.
+
+Distributed LLM inference among browsers connected via WebRTC using PeerJS.
+Calling functions written in JavaScript
+Demo page: https://ktock.github.io/llmlet-demo/
+
+
+
 <img src="https://github.com/Spencerx/Spencerx/blob/main/WASM%20In-Browser.png"> [WASM IO 2026 YouTube Playlist](https://youtube.com/playlist?list=PLP3xGl7Eb-4P9UDywG2NOJLBtcch_Ry7A)
 
 Some of my highlights are viewing the world as 
