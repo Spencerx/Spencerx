@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/Spencerx/Spencerx/blob/main/SpencerxGitHubCard.svg">
 <!--[https://githubcard.com/Spencerx.svg?d=lVAfFSAe] -->
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png">
-<img src="https://github.githubassets.com/assets/quickdraw-default--medium-0bdca502f5b4.png">
-<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width=10%>
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width=25%>
+<img src="https://github.githubassets.com/assets/quickdraw-default--medium-0bdca502f5b4.png" width=25%>
+<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width=25%>
 
 
 
