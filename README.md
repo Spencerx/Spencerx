@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <!--[https://githubcard.com/Spencerx.svg?d=lVAfFSAe] -->
 <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png">
 <img src="https://github.githubassets.com/assets/quickdraw-default--medium-0bdca502f5b4.png">
-<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png">
+<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width=10%>
 
 
 
