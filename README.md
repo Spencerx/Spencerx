@@ -10,6 +10,11 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/Spencerx/Spencerx/blob/main/SpencerxGitHubCard.svg">
 <!--[https://githubcard.com/Spencerx.svg?d=lVAfFSAe] -->
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png">
+<img src="https://github.githubassets.com/assets/quickdraw-default--medium-0bdca502f5b4.png">
+<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png">
+
+
 
 I build or maintain private data, models and repositories on devices (edge technology). We would like to think that people all possess natural language processing ability, we also have Lisp since the sixties like the open Unix standard and Prolog since the 70s in France doing early AI, Deep Learning or Machine Machine Learning, Machine Intelligence, NLP with analogue or digital computers that give rhyme or reason from symbolic logic as in fact based assertions that are still relevant to cutting down hallucinations now and validation of data based on rules, also cheaper hardware than supercomputers or workstations that complimented them like Lisp or Thinking Machines that cost less than a large property, Unix foundations built on small tools scaled to Linux platforms here and now. Lisp, LISt Processing, is only one year younger than Fortran(1957); fifth generation like Erlang, Haskell used in GuixOS, Prolog - PROgramming in Logic, Smalltalk. Simple syntax, transformable linked lists and macros have it named a “programmable
 programming language.” ie: a programmer's programmable language or an excellent toy for today's processing power and human input.
