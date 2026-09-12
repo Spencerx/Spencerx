@@ -1,4 +1,4 @@
-## Hi there 📲
+## Hi there 📲 I use computers of all types to sliver problems by designing solutions and enhancing processes.
 
 <!--
 **Spencerx/Spencerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
